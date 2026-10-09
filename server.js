@@ -1,4 +1,4 @@
-const clavePrueba = "LAB_TOKEN_ABC321XYZ789";
+const clavePrueba = process.env.LAB_TOKEN;
 
 const http = require("node:http");
 
