@@ -1,3 +1,5 @@
+const clavePrueba = "LAB_TOKEN_ABC123XYZ789";
+
 const http = require("node:http");
 
 http.createServer((req, res) => {
