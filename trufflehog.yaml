@@ -1,0 +1,6 @@
+detectors:
+- name: TokenLaboratorio
+keywords:
+- LAB_TOKEN_
+regex:
+token: 'LAB_TOKEN_[A-Z0-9]{12}'
